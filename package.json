@@ -1,0 +1,12 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "microservice criado durante o bootcamp inter da dio",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./"
+  },
+  "author": "Jhonatan Neves",
+  "license": "ISC"
+}
